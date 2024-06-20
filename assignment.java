@@ -12,7 +12,7 @@
  * @author Tereza Vrabcová
  */
 
-public class Assignment {
+class Assignment {
     /**
      * This method prints out string, as per the assignment, for 
      * numbers <1-99>. The strings are concatenated utilising 
