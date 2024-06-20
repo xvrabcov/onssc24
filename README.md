@@ -4,11 +4,11 @@ This is the implementation of the assignment for the Oracle NetSuite Summer Camp
 ## How To Run
 The program can be run by the command:
 ```
-java Assignment.java
+java assignment.java
 ```
 or with compilation:
 ```
-javac Assignment.java
+javac assignment.java
 java Assignment
 ```
 provided the user is able to call the commands `javac` and `java`.
